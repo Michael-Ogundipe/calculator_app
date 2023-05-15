@@ -175,7 +175,7 @@ class _CalculatorViewState extends State<CalculatorView> {
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
                   Column(
-                    //mainAxisAlignment: MainAxisAlignment.spaceAround
+//mainAxisAlignment: MainAxisAlignment.spaceAround
                     children: [
                       Row(
                         children: [
